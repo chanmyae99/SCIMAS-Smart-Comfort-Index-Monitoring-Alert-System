@@ -61,34 +61,6 @@ It aims to provide smart insights into indoor environmental quality within facto
 | **Programming** | C++ (Arduino IDE), Python (pandas, scikit-learn) |
 | **ML Model** | Random Forest Regressor for comfort prediction |
 
----
-
-## 📂 Project Structure
-
-SCIMAS-Smart-Comfort-Index-Monitoring-Alert-System/
-│
-├── arduino_code/
-│ └── scimas_r4_wifi.ino
-│
-├── python_scripts/
-│ ├── data_ingestion.py
-│ ├── data_cleaning.py
-│ ├── model_training.py
-│ └── alert_system.py
-│
-├── datasets/
-│ └── sensor_data.csv
-│
-├── dashboards/
-│ ├── grafana_dashboard.png
-│ └── comfort_trend_overview.json
-│
-├── database/
-│ └── schema.sql
-│
-├── requirements.txt
-└── README.md
-
 
 ---
 
